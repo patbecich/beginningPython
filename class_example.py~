@@ -1,0 +1,13 @@
+
+
+class Person:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+
+    daysLived = 0
+
+    def calculateDaysLived:
+        self.daysLived = 365*int(age)
+
+    
