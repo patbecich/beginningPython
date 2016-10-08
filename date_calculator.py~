@@ -1,3 +1,0 @@
-#program that converts numerical date to spelled out format
-
-months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'December']
